@@ -1,0 +1,73 @@
+
+mar. 25, 2022 20:03:14.919 NEW SESSION
+mar. 25, 2022 20:03:14.919 [6128:13972:0325/200314.834:ERROR:device_event_log_impl.cc(214)] [20:03:14.834] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 25, 2022 20:03:17.765 [6128:13972:0325/200317.753:ERROR:device_event_log_impl.cc(214)] [20:03:17.753] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 25, 2022 20:23:36.53 [9760:14312:0325/202336.020:ERROR:device_event_log_impl.cc(214)] [20:23:36.020] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 25, 2022 20:23:43.791 [9760:14312:0325/202343.790:ERROR:device_event_log_impl.cc(214)] [20:23:43.790] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 25, 2022 20:23:49.793 [9760:14312:0325/202349.747:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+mar. 25, 2022 20:24:32.457 [9760:14312:0325/202432.379:ERROR:service_worker_task_queue.cc(213)] DidStartWorkerFail looohpideggedchhpphemdmppnmdkgfd: 14
+mar. 25, 2022 20:24:32.460 [9760:14312:0325/202432.379:ERROR:service_worker_task_queue.cc(213)] DidStartWorkerFail mjoebkkejejidnkfdekpbooceogbapnf: 14
+mar. 25, 2022 20:33:33.135 [2652:8740:0325/203333.134:ERROR:device_event_log_impl.cc(214)] [20:33:33.134] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 25, 2022 20:33:35.09 [2652:8740:0325/203335.009:ERROR:device_event_log_impl.cc(214)] [20:33:35.008] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 25, 2022 20:34:10.128 [13932:10336:0325/203410.126:ERROR:device_event_log_impl.cc(214)] [20:34:10.126] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 25, 2022 20:34:10.148 [13932:10336:0325/203410.146:ERROR:device_event_log_impl.cc(214)] [20:34:10.147] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+
+mar. 28, 2022 12:09:57.902 NEW SESSION
+mar. 28, 2022 12:09:57.902 [13676:3940:0328/120957.417:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+mar. 28, 2022 12:10:04.873 [13676:3940:0328/121004.871:ERROR:device_event_log_impl.cc(214)] [12:10:04.872] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 28, 2022 12:10:08.490 [13676:3940:0328/121008.489:ERROR:device_event_log_impl.cc(214)] [12:10:08.489] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+mar. 30, 2022 15:51:05.621 NEW SESSION
+mar. 30, 2022 15:51:05.622 [7992:4552:0330/155105.372:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+mar. 30, 2022 15:51:21.479 [7992:4552:0330/155121.477:ERROR:device_event_log_impl.cc(214)] [15:51:21.477] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 30, 2022 15:51:24.762 [7992:4552:0330/155124.760:ERROR:device_event_log_impl.cc(214)] [15:51:24.760] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 30, 2022 15:53:40.834 [8324:5284:0330/155340.831:ERROR:device_event_log_impl.cc(214)] [15:53:40.830] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 30, 2022 15:53:43.656 [8324:5284:0330/155343.654:ERROR:device_event_log_impl.cc(214)] [15:53:43.653] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+mar. 30, 2022 17:25:32.45 NEW SESSION
+mar. 30, 2022 17:25:32.45 [12484:6888:0330/172531.997:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+mar. 30, 2022 17:25:36.375 [12484:6888:0330/172536.374:ERROR:device_event_log_impl.cc(214)] [17:25:36.373] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 30, 2022 17:25:38.684 [12484:6888:0330/172538.681:ERROR:device_event_log_impl.cc(214)] [17:25:38.681] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+mar. 31, 2022 10:09:36.553 NEW SESSION
+mar. 31, 2022 10:09:36.553 [7016:9720:0331/100936.104:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+mar. 31, 2022 10:09:42.390 [7016:9720:0331/100942.389:ERROR:device_event_log_impl.cc(214)] [10:09:42.389] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 31, 2022 10:09:44.207 [7016:9720:0331/100944.206:ERROR:device_event_log_impl.cc(214)] [10:09:44.206] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+mar. 31, 2022 15:47:32.898 NEW SESSION
+mar. 31, 2022 15:47:32.899 [10704:5308:0331/154732.844:ERROR:device_event_log_impl.cc(214)] [15:47:32.844] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 31, 2022 15:47:34.287 [10704:5308:0331/154734.286:ERROR:device_event_log_impl.cc(214)] [15:47:34.286] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 31, 2022 16:00:55.477 [7216:8928:0331/160055.475:ERROR:device_event_log_impl.cc(214)] [16:00:55.474] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 31, 2022 16:00:56.129 [7216:8928:0331/160056.128:ERROR:device_event_log_impl.cc(214)] [16:00:56.128] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 31, 2022 18:55:41.270 [10532:3816:0331/185541.160:ERROR:device_event_log_impl.cc(214)] [18:55:41.160] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 31, 2022 18:55:42.648 [10532:3816:0331/185542.647:ERROR:device_event_log_impl.cc(214)] [18:55:42.647] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 31, 2022 19:01:07.817 [1228:6712:0331/190107.815:ERROR:device_event_log_impl.cc(214)] [19:01:07.814] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 31, 2022 19:01:09.515 [1228:6712:0331/190109.508:ERROR:device_event_log_impl.cc(214)] [19:01:09.507] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+mar. 31, 2022 20:16:56.668 NEW SESSION
+mar. 31, 2022 20:16:56.669 [6240:8728:0331/201656.465:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+mar. 31, 2022 20:17:00.920 [6240:8728:0331/201700.919:ERROR:device_event_log_impl.cc(214)] [20:17:00.919] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 31, 2022 20:17:02.902 [6240:8728:0331/201702.902:ERROR:device_event_log_impl.cc(214)] [20:17:02.902] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+mar. 31, 2022 20:29:03.484 [7984:7988:0331/202903.483:ERROR:device_event_log_impl.cc(214)] [20:29:03.484] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+mar. 31, 2022 20:29:03.855 [7984:7988:0331/202903.854:ERROR:device_event_log_impl.cc(214)] [20:29:03.854] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+abr. 01, 2022 12:10:09.884 NEW SESSION
+abr. 01, 2022 12:10:09.885 [6344:9796:0401/121009.788:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+abr. 01, 2022 12:10:23.491 [6344:9796:0401/121023.488:ERROR:device_event_log_impl.cc(214)] [12:10:23.489] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+abr. 01, 2022 12:10:25.439 [6344:9796:0401/121025.437:ERROR:device_event_log_impl.cc(214)] [12:10:25.438] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+abr. 01, 2022 15:49:46.917 [2168:6280:0401/154946.779:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+abr. 01, 2022 15:49:51.114 [2168:6280:0401/154951.113:ERROR:device_event_log_impl.cc(214)] [15:49:51.113] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+abr. 01, 2022 15:49:52.449 [2168:6280:0401/154952.448:ERROR:device_event_log_impl.cc(214)] [15:49:52.447] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+abr. 01, 2022 15:56:41.361 [10516:868:0401/155641.359:ERROR:device_event_log_impl.cc(214)] [15:56:41.359] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+abr. 01, 2022 15:56:42.423 [10516:868:0401/155642.421:ERROR:device_event_log_impl.cc(214)] [15:56:42.422] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+abr. 01, 2022 17:40:44.362 [1028:4548:0401/174044.277:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+abr. 01, 2022 17:41:04.747 [1028:4548:0401/174104.746:ERROR:device_event_log_impl.cc(214)] [17:41:04.746] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+abr. 01, 2022 17:41:06.745 [1028:4548:0401/174106.742:ERROR:device_event_log_impl.cc(214)] [17:41:06.741] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+abr. 01, 2022 21:06:05.618 NEW SESSION
+abr. 01, 2022 21:06:05.618 [1896:1768:0401/210605.083:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+abr. 01, 2022 21:06:09.446 [1896:1768:0401/210609.442:ERROR:device_event_log_impl.cc(214)] [21:06:09.442] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+abr. 01, 2022 21:06:11.594 [1896:1768:0401/210611.592:ERROR:device_event_log_impl.cc(214)] [21:06:11.592] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+abr. 01, 2022 21:11:27.823 [8260:3696:0401/211127.822:ERROR:service_worker_task_queue.cc(213)] DidStartWorkerFail mjoebkkejejidnkfdekpbooceogbapnf: 5
+abr. 01, 2022 21:11:31.167 [8260:3696:0401/211131.160:ERROR:device_event_log_impl.cc(214)] [21:11:31.160] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo ligado ao sistema não está a funcionar. (0x1F)
+abr. 01, 2022 21:11:32.615 [8260:3696:0401/211132.614:ERROR:device_event_log_impl.cc(214)] [21:11:32.614] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.

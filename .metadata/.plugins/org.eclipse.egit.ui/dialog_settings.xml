@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/QueirosTavares/impostos.git"/>
+		<item value="file://D:\EXPORTAÇÕES\EXPORTAÇÃO1\PrimeiroProjectoMaven"/>
+		<item value="file://D:\EXPORTAÇÕES\EXPORTAÇÃO1"/>
+		<item value="https://github.com/NOSiCode-CV/IGRP-Java-Template-Eclipse.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<section name="GitImportWizard">
+		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+</section>
